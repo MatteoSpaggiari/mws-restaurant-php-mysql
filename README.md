@@ -8,12 +8,8 @@ The project consisted of creating a web application (mobile-ready) for reviewing
 
 ### Specification
 
-To test the project you need to have python installed on your computer. Also you need to download the files that make up the server at this link https://github.com/udacity/mws-restaurant-stage-3 (follow the instructions to install it).
+The application has been modified, compared to that of the Udacity Mobile Web Specialist course, adding PHP code and a MySQL database.
+The server written in PHP and the .db file (MySQL DataBase) can be found at this link: https://github.com/MatteoSpaggiari/server-php-mws-restaurant
+An online version can be found at this address: https://www.matteospaggiari.it/progetti/mws-restaurant-project-udacity/
 
-### Follow the next steps to make the project work
 
-1. Download and install Ptython3 on your PC if you have not already
-2. Clone or download all the files to a folder on your PC
-3. Start the downloaded server at https://github.com/udacity/mws-restaurant-stage-3 (follow the instructions to start it)
-4. From the terminal enter the "dist" directory of the project, type "python web_server.py"
-5. Open your browser and type in url http://localhost:8000
