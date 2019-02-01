@@ -5,6 +5,8 @@
 ## Project Overview
 
 The project consisted of creating a web application (mobile-ready) for reviewing restaurants.
+IMPORTANT: The application is able to work offline (thanks to the Service Worker, IndexedDB and Cache Storage).
+
 
 ### Specification
 
